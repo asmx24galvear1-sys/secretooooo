@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "62243274149",
+    "project_id": "inslaferreria-georacing",
+    "storage_bucket": "inslaferreria-georacing.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62243274149:android:a65d0d22d9890d9094bc4c",
+        "android_client_info": {
+          "package_name": "com.georacing.georacing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62243274149-lfcqs9pcvo4birlhk1jb2mhfs0m1of9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.georacing.georacing",
+            "certificate_hash": "6a6c7aab43397da4a00d0caf453b61395312f348"
+          }
+        },
+        {
+          "client_id": "62243274149-iv3ra1epplkgsr3oeipgrej6i9r62qfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHRRcSszQqX8mPCHdQDEbSbRAKdBR7HU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62243274149-iv3ra1epplkgsr3oeipgrej6i9r62qfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
